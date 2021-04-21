@@ -20,7 +20,7 @@ namespace Rocky.Utility
         {
             MailjetClient client = new MailjetClient("c5c4603bc18209b72e509f3cc50c898b", "b54a40e59563bab9394f7ac663f58d57")
             {
-                //Version = ApiVersion.V3_1,
+                /*Version = ApiVersion.V3_1,*/
             };
             MailjetRequest request = new MailjetRequest
             {
